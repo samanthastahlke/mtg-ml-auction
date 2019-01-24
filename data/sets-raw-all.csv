@@ -1,0 +1,438 @@
+,baseSetSize,block,boosterV3,code,codeV3,isFoilOnly,isOnlineOnly,meta,mtgoCode,name,releaseDate,tcgplayerGroupId,totalSetSize,type
+10E,382,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",10E,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",10E,Tenth Edition,2007-07-13,1,508,core
+2ED,302,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",2ED,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Unlimited Edition,1993-12-01,115,302,core
+3ED,306,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",3ED,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Revised Edition,1994-04-01,97,306,core
+4ED,378,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",4ED,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Fourth Edition,1995-04-01,46,378,core
+5DN,165,Mirrodin,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",5DN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",5DN,Fifth Dawn,2004-06-04,43,165,expansion
+5ED,449,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",5ED,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Fifth Edition,1997-03-24,44,449,core
+6ED,350,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",6ED,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Classic Sixth Edition,1999-04-21,23,350,core
+7ED,350,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land']",7ED,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",7E,Seventh Edition,2001-04-11,2,350,core
+8ED,350,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land']",8ED,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",8ED,Eighth Edition,2003-07-28,3,357,core
+9ED,350,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land']",9ED,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",9ED,Ninth Edition,2005-07-29,4,359,core
+A25,249,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', ['foil mythic rare', 'foil rare', 'foil uncommon', 'foil common']]",A25,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",A25,Masters 25,2018-03-16,2189,249,masters
+AER,184,Kaladesh,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",AER,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",AER,Aether Revolt,2017-01-20,1857,194,expansion
+AKH,269,Amonkhet,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",AKH,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",AKH,Amonkhet,2017-04-28,1882,287,expansion
+ALA,249,Alara,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",ALA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",ALA,Shards of Alara,2008-10-03,103,249,expansion
+ALL,199,Ice Age,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",ALL,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Alliances,1996-06-10,6,199,expansion
+ANA,0,,,ANA,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",,Arena New Player Experience,2018-07-14,,41,starter
+APC,143,Invasion,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",APC,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",AP,Apocalypse,2001-06-04,10,143,expansion
+ARB,145,Alara,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",ARB,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",ARB,Alara Reborn,2009-04-30,5,145,expansion
+ARC,0,,,ARC,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Archenemy,2010-06-18,12,150,archenemy
+ARN,78,,"[['rare', 'uncommon'], ['rare', 'uncommon'], 'common', 'common', 'common', 'common', 'common', 'common']",ARN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Arabian Nights,1993-12-17,11,78,expansion
+ATH,0,,,ATH,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Anthologies,1998-11-01,1275,85,box
+ATQ,100,,"[['rare', 'uncommon'], ['rare', 'uncommon'], 'common', 'common', 'common', 'common', 'common', 'common']",ATQ,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Antiquities,1994-03-04,8,100,expansion
+AVR,244,Innistrad,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",AVR,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",AVR,Avacyn Restored,2012-05-04,362,244,expansion
+BBD,79,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",BBD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Battlebond,2018-06-08,2245,256,draft_innovation
+BFZ,299,Battle for Zendikar,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",BFZ,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",BFZ,Battle for Zendikar,2015-10-02,1645,299,expansion
+BNG,165,Theros,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",BNG,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",BNG,Born of the Gods,2014-02-07,1276,165,expansion
+BOK,165,Kamigawa,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",BOK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",BOK,Betrayers of Kamigawa,2005-02-04,18,165,expansion
+BRB,0,,,BRB,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Battle Royale Box Set,1999-11-12,15,136,box
+BTD,0,,,BTD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Beatdown Box Set,2000-10-01,16,90,box
+C13,181,,,C13,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",C13,Commander 2013,2013-11-01,1164,356,commander
+C14,162,,,C14,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",C14,Commander 2014,2014-11-07,1476,337,commander
+C15,167,,,C15,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2015,2015-11-13,1673,342,commander
+C16,176,,,C16,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2016,2016-11-11,1792,351,commander
+C17,134,,,C17,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2017,2017-08-25,2009,309,commander
+C18,132,,,C18,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2018,2018-08-09,2251,307,commander
+CED,127,,,CED,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Collectors’ Edition,1993-12-10,1526,302,memorabilia
+CEI,127,,,CEI,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Intl. Collectors’ Edition,1993-12-10,1527,302,memorabilia
+CHK,307,Kamigawa,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",CHK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",CHK,Champions of Kamigawa,2004-10-01,20,307,expansion
+CHR,125,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",CHR,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Chronicles,1995-07-01,22,125,masters
+CM1,0,,,CM1,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander's Arsenal,2012-11-02,568,18,commander
+CM2,137,,,CM2,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander Anthology Volume II,2018-06-08,2246,312,commander
+CMA,145,,,CMA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander Anthology,2017-06-06,1933,320,commander
+CMD,143,,,CMD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",CMD,Commander 2011,2011-06-17,25,318,commander
+CN2,222,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'draft-matters', 'marketing']",CN2,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Conspiracy: Take the Crown,2016-08-26,1794,222,draft_innovation
+CNS,210,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'draft-matters', 'marketing']",CNS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Conspiracy,2014-06-06,1312,210,draft_innovation
+CON,145,Alara,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",CON,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",CON,Conflux,2009-02-06,26,145,expansion
+CP1,0,,,CP1,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic 2015 Clash Pack,2014-07-18,,6,starter
+CP2,0,Khans of Tarkir,,CP2,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Fate Reforged Clash Pack,2015-01-24,,6,starter
+CP3,0,,,CP3,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Origins Clash Pack,2015-07-17,,6,starter
+CSP,155,Ice Age,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",CSP,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",CSP,Coldsnap,2006-07-21,24,155,expansion
+CST,0,Ice Age,,CST,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Coldsnap Theme Decks,2006-07-21,1348,62,box
+DD1,0,,,DD1,EVG,,,"{'date': '2018-01-12', 'version': '4.2.1'}",EVG,Duel Decks: Elves vs. Goblins,2007-11-16,33,62,duel_deck
+DD2,0,,,DD2,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DD2,Duel Decks: Jace vs. Chandra,2008-11-07,35,62,duel_deck
+DDC,0,,,DDC,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDC,Duel Decks: Divine vs. Demonic,2009-04-10,31,62,duel_deck
+DDD,0,,,DDD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDD,Duel Decks: Garruk vs. Liliana,2009-10-30,34,63,duel_deck
+DDE,0,,,DDE,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDE,Duel Decks: Phyrexia vs. the Coalition,2010-03-19,37,71,duel_deck
+DDF,0,,,DDF,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDF,Duel Decks: Elspeth vs. Tezzeret,2010-09-03,32,79,duel_deck
+DDG,0,,,DDG,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDG,Duel Decks: Knights vs. Dragons,2011-04-01,36,81,duel_deck
+DDH,0,,,DDH,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDH,Duel Decks: Ajani vs. Nicol Bolas,2011-09-02,30,80,duel_deck
+DDI,0,,,DDI,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDI,Duel Decks: Venser vs. Koth,2012-03-30,367,77,duel_deck
+DDJ,0,,,DDJ,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDJ,Duel Decks: Izzet vs. Golgari,2012-09-07,365,90,duel_deck
+DDK,0,,,DDK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDK,Duel Decks: Sorin vs. Tibalt,2013-03-15,601,80,duel_deck
+DDL,0,,,DDL,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDL,Duel Decks: Heroes vs. Monsters,2013-09-06,1145,81,duel_deck
+DDM,0,,,DDM,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDM,Duel Decks: Jace vs. Vraska,2014-03-14,1166,88,duel_deck
+DDN,0,,,DDN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks: Speed vs. Cunning,2014-09-05,1477,81,duel_deck
+DDO,0,,,DDO,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks: Elspeth vs. Kiora,2015-02-27,1511,67,duel_deck
+DDP,0,,,DDP,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks: Zendikar vs. Eldrazi,2015-08-28,1641,80,duel_deck
+DDQ,0,,,DDQ,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks: Blessed vs. Cursed,2016-02-26,1726,80,duel_deck
+DDR,0,,,DDR,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks: Nissa vs. Ob Nixilis,2016-09-02,1835,75,duel_deck
+DDS,0,,,DDS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks: Mind vs. Might,2017-03-31,1905,65,duel_deck
+DDT,0,,,DDT,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks: Merfolk vs. Goblins,2017-10-24,2076,63,duel_deck
+DDU,0,,,DDU,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DDU,Duel Decks: Elves vs. Inventors,2018-04-06,2207,76,duel_deck
+DGM,156,Return to Ravnica,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",DGM,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DGM,Dragon's Maze,2013-05-03,570,156,expansion
+DIS,180,Ravnica,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",DIS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DIS,Dissension,2006-05-05,28,180,expansion
+DKA,158,Innistrad,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', ['marketing', 'checklist']]",DKA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DKA,Dark Ascension,2012-02-03,125,158,expansion
+DKM,0,,,DKM,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Deckmasters,2001-12-01,1311,58,box
+DOM,269,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",DOM,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DAR,Dominaria,2018-04-27,2199,280,expansion
+DPA,0,,,DPA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duels of the Planeswalkers,2010-06-04,1274,113,box
+DRB,0,,,DRB,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",DRB,From the Vault: Dragons,2008-08-29,47,15,from_the_vault
+DRK,119,,"[['rare', 'uncommon'], ['rare', 'uncommon'], 'common', 'common', 'common', 'common', 'common', 'common']",DRK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,The Dark,1994-08-01,109,119,expansion
+DST,165,Mirrodin,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",DST,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DST,Darksteel,2004-02-06,27,165,expansion
+DTK,264,Khans of Tarkir,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",DTK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",DTK,Dragons of Tarkir,2015-03-27,1515,264,expansion
+DVD,0,,,DVD,DD3_DVD,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks Anthology: Divine vs. Demonic,2014-12-05,,62,duel_deck
+E01,0,,,E01,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Archenemy: Nicol Bolas,2017-06-16,1904,106,archenemy
+E02,0,,,E02,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Explorers of Ixalan,2017-11-24,2077,48,box
+EMA,249,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', ['foil mythic rare', 'foil rare', 'foil uncommon', 'foil common']]",EMA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",EMA,Eternal Masters,2016-06-10,1740,249,masters
+EMN,208,Shadows Over Innistrad,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', ['common', 'double faced rare', 'double faced mythic rare'], ['double faced common', 'double faced uncommon'], ['land', 'checklist'], 'marketing']",EMN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",EMN,Eldritch Moon,2016-07-22,1790,208,expansion
+EVE,180,Shadowmoor,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'marketing']",EVE,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",EVE,Eventide,2008-07-25,39,180,expansion
+EVG,0,,,EVG,DD3_EVG,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks Anthology: Elves vs. Goblins,2014-12-05,33,62,duel_deck
+EXO,143,Tempest,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",EXO,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",EX,Exodus,1998-06-15,40,143,expansion
+EXP,45,Battle for Zendikar,,EXP,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",EXP,Zendikar Expeditions,2015-10-02,1649,45,masterpiece
+F01,0,Friday Night Magic,,F01,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2001,2001-01-01,,7,promo
+F02,0,Friday Night Magic,,F02,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2002,2002-01-01,,12,promo
+F03,0,Friday Night Magic,,F03,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2003,2003-01-01,,13,promo
+F04,0,Friday Night Magic,,F04,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2004,2004-01-01,,12,promo
+F05,0,Friday Night Magic,,F05,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2005,2005-01-01,,12,promo
+F06,0,Friday Night Magic,,F06,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2006,2006-01-01,,12,promo
+F07,0,Friday Night Magic,,F07,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2007,2007-01-01,,12,promo
+F08,0,Friday Night Magic,,F08,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2008,2008-01-01,,12,promo
+F09,0,Friday Night Magic,,F09,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2009,2009-01-01,,12,promo
+F10,0,Friday Night Magic,,F10,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2010,2010-01-01,,12,promo
+F11,0,Friday Night Magic,,F11,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2011,2011-01-01,,12,promo
+F12,0,Friday Night Magic,,F12,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2012,2012-01-01,,13,promo
+F13,0,Friday Night Magic,,F13,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2013,2013-01-01,,12,promo
+F14,0,Friday Night Magic,,F14,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2014,2014-01-01,,12,promo
+F15,0,Friday Night Magic,,F15,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2015,2015-01-01,,12,promo
+F16,0,Friday Night Magic,,F16,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2016,2016-01-01,,12,promo
+F17,0,Friday Night Magic,,F17,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2017,2017-01-01,,12,promo
+FBB,306,,,FBB,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Foreign Black Border,1995-04-01,1689,307,core
+FEM,187,,"[['rare', 'uncommon'], ['rare', 'uncommon'], 'common', 'common', 'common', 'common', 'common', 'common']",FEM,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Fallen Empires,1994-11-01,41,187,expansion
+FNM,0,Friday Night Magic,,FNM,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Friday Night Magic 2000,2000-01-01,45,11,promo
+FRF,185,Khans of Tarkir,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",FRF,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",FRF,Fate Reforged,2015-01-23,1497,185,expansion
+FUT,180,Time Spiral,"[['rare', 'timeshifted rare'], ['uncommon', 'timeshifted uncommon'], ['uncommon', 'timeshifted uncommon'], ['uncommon', 'timeshifted uncommon'], ['common', 'timeshifted common'], ['common', 'timeshifted common'], ['common', 'timeshifted common'], ['common', 'timeshifted common'], ['common', 'timeshifted common'], ['common', 'timeshifted common'], ['common', 'timeshifted common'], ['common', 'timeshifted common'], ['common', 'timeshifted common'], ['common', 'timeshifted common'], ['common', 'timeshifted common']]",FUT,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",FUT,Future Sight,2007-05-04,51,180,expansion
+G00,0,,,G00,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2000,2000-01-01,,2,promo
+G01,0,,,G01,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2001,2001-01-01,,2,promo
+G02,0,,,G02,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2002,2002-01-01,,2,promo
+G03,0,,,G03,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2003,2003-01-01,,3,promo
+G04,0,,,G04,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2004,2004-01-01,,6,promo
+G05,0,,,G05,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2005,2005-01-01,,4,promo
+G06,0,,,G06,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2006,2006-01-01,,4,promo
+G07,0,,,G07,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2007,2007-01-01,,5,promo
+G08,0,,,G08,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2008,2008-01-01,,5,promo
+G09,0,,,G09,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2009,2009-01-01,,10,promo
+G10,0,,,G10,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2010,2010-01-01,,8,promo
+G11,0,,,G11,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2011,2011-01-01,,9,promo
+G99,0,,,G99,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 1999,1999-01-01,,1,promo
+GK1,0,,,GK1,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,GRN Guild Kit,2018-11-02,2334,127,box
+GNT,0,,,GNT,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Game Night,2018-11-16,2359,68,box
+GPT,165,Ravnica,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",GPT,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",GPT,Guildpact,2006-02-03,55,165,expansion
+GRN,259,Guilds of Ravnica,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",GRN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",GRN,Guilds of Ravnica,2018-10-05,2290,273,expansion
+GS1,0,,,GS1,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Global Series Jiang Yanggu & Mu Yanling,2018-06-22,2247,41,duel_deck
+GTC,249,Return to Ravnica,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",GTC,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",GTC,Gatecrash,2013-02-01,569,249,expansion
+GVL,0,,,GVL,DD3_GVL,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks Anthology: Garruk vs. Liliana,2014-12-05,,63,duel_deck
+H09,0,,,H09,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",H09,Premium Deck Series: Slivers,2009-11-20,91,41,premium_deck
+H17,0,,,H17,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,HasCon 2017,2017-09-20,,4,funny
+HHO,0,,,HHO,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Happy Holidays,2006-12-31,,13,funny
+HML,140,,"[['rare', 'uncommon'], ['rare', 'uncommon'], 'common', 'common', 'common', 'common', 'common', 'common']",HML,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Homelands,1995-10-01,57,140,expansion
+HOP,0,,,HOP,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",PC1,Planechase,2009-09-04,84,169,planechase
+HOU,199,Amonkhet,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",HOU,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",HOU,Hour of Devastation,2017-07-14,1934,209,expansion
+HTR,0,,,HTR,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,2016 Heroes of the Realm,2017-09-20,,3,funny
+HTR17,0,,,HTR17,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,2017 Heroes of the Realm,2018-08-01,,1,memorabilia
+ICE,383,Ice Age,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",ICE,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Ice Age,1995-06-01,58,383,expansion
+IMA,249,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', ['foil mythic rare', 'foil rare', 'foil uncommon', 'foil common']]",IMA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",IMA,Iconic Masters,2017-11-17,2050,249,masters
+INV,350,Invasion,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",INV,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",IN,Invasion,2000-10-02,60,350,expansion
+ISD,264,Innistrad,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', ['land', 'checklist'], 'marketing', 'double faced']",ISD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",ISD,Innistrad,2011-09-30,59,264,expansion
+ITP,0,,,ITP,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Introductory Two-Player Set,1996-12-31,,72,starter
+J12,0,,,J12,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2012,2012-01-01,,9,promo
+J13,0,,,J13,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2013,2013-01-01,,9,promo
+J14,0,,,J14,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2014,2014-01-01,,14,promo
+J15,0,,,J15,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2015,2015-01-01,,8,promo
+J16,0,,,J16,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2016,2016-01-01,,7,promo
+J17,0,,,J17,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2017,2017-01-01,,9,promo
+J18,0,,,J18,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 2018,2018-01-01,,8,promo
+JGP,0,,,JGP,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Judge Gift Cards 1998,1998-01-01,,3,promo
+JOU,165,Theros,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",JOU,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",JOU,Journey into Nyx,2014-05-02,1277,165,expansion
+JUD,143,Odyssey,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",JUD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",JUD,Judgment,2002-05-27,63,143,expansion
+JVC,0,,,JVC,DD3_JVC,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks Anthology: Jace vs. Chandra,2014-12-05,,62,duel_deck
+KLD,264,Kaladesh,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",KLD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",KLD,Kaladesh,2016-09-30,1791,274,expansion
+KTK,269,Khans of Tarkir,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",KTK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",KTK,Khans of Tarkir,2014-09-26,1356,269,expansion
+L12,0,,,L12,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,League Tokens 2012,2012-01-01,,2,token
+L13,0,,,L13,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,League Tokens 2013,2013-01-01,,4,token
+L14,0,,,L14,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,League Tokens 2014,2014-01-01,,4,token
+L15,0,,,L15,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,League Tokens 2015,2015-01-01,,1,token
+LEA,295,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",LEA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Limited Edition Alpha,1993-08-05,7,295,core
+LEB,302,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",LEB,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Limited Edition Beta,1993-10-04,17,302,core
+LEG,310,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",LEG,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Legends,1994-06-01,65,310,expansion
+LGN,145,Onslaught,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",LGN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",LGN,Legions,2003-02-03,66,145,expansion
+LRW,301,Lorwyn,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'marketing']",LRW,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",LRW,Lorwyn,2007-10-12,67,301,expansion
+M10,249,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",M10,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",M10,Magic 2010,2009-07-17,68,249,core
+M11,249,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",M11,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",M11,Magic 2011,2010-07-16,69,249,core
+M12,249,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",M12,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",M12,Magic 2012,2011-07-15,70,249,core
+M13,249,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",M13,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",M13,Magic 2013,2012-07-13,364,249,core
+M14,249,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",M14,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",M14,Magic 2014,2013-07-19,1113,249,core
+M15,269,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",M15,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",M15,Magic 2015,2014-07-18,1293,284,core
+M19,280,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",M19,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",M19,Core Set 2019,2018-07-13,2250,314,core
+MBS,155,Scars of Mirrodin,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",MBS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",MBS,Mirrodin Besieged,2011-02-04,76,155,expansion
+MD1,0,,,MD1,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Modern Event Deck 2014,2014-05-30,1346,26,box
+ME1,195,,,ME1,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",MED,Masters Edition,2007-09-10,,195,masters
+ME2,245,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land']",ME2,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",ME2,Masters Edition II,2008-09-22,,245,masters
+ME3,230,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land']",ME3,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",ME3,Masters Edition III,2009-09-07,,230,masters
+ME4,269,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'urza land']",ME4,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",ME4,Masters Edition IV,2011-01-10,,269,masters
+MED,0,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land']",MED,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",MS4,Mythic Edition,2018-10-05,2326,16,masterpiece
+MGB,0,,,MGB,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Multiverse Gift Box,1996-11-01,,10,box
+MIR,350,Mirage,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",MIR,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",MI,Mirage,1996-10-08,74,350,expansion
+MM2,249,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', ['foil mythic rare', 'foil rare', 'foil uncommon', 'foil common']]",MM2,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",MM2,Modern Masters 2015,2015-05-22,1503,249,masters
+MM3,249,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', ['foil mythic rare', 'foil rare', 'foil uncommon', 'foil common']]",MM3,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",MM3,Modern Masters 2017,2017-03-17,1879,249,masters
+MMA,229,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', ['foil mythic rare', 'foil rare', 'foil uncommon', 'foil common']]",MMA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",MMA,Modern Masters,2013-06-07,1111,229,masters
+MMQ,350,Masques,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",MMQ,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",MM,Mercadian Masques,1999-10-04,73,350,expansion
+MOR,150,Lorwyn,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'marketing']",MOR,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",MOR,Morningtide,2008-02-01,77,150,expansion
+MP2,54,Amonkhet,,MP2,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",MS3,Amonkhet Invocations,2017-04-28,1909,54,masterpiece
+MPR,0,,,MPR,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Player Rewards 2001,2001-01-01,,8,promo
+MPS,54,Kaladesh,,MPS,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",MS2,Kaladesh Inventions,2016-09-30,1837,54,masterpiece
+MRD,306,Mirrodin,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",MRD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",MRD,Mirrodin,2003-10-02,75,306,expansion
+NEM,143,Masques,,NEM,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",NE,Nemesis,2000-02-14,78,143,expansion
+NPH,175,Scars of Mirrodin,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",NPH,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",NPH,New Phyrexia,2011-05-13,79,175,expansion
+OARC,0,,,OARC,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Archenemy Schemes,2010-06-18,,45,archenemy
+OC13,0,,,OC13,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2013 Oversized,2013-11-01,,15,memorabilia
+OC14,0,,,OC14,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2014 Oversized,2014-11-07,,5,memorabilia
+OC15,0,,,OC15,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2015 Oversized,2015-11-13,,5,memorabilia
+OC16,0,,,OC16,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2016 Oversized,2016-11-11,,5,memorabilia
+OC17,0,,,OC17,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2017 Oversized,2017-08-25,,4,memorabilia
+OC18,0,,,OC18,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2018 Oversized,2018-08-09,,4,memorabilia
+OCM1,0,,,OCM1,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander's Arsenal Oversized,2012-11-02,,10,memorabilia
+OCMD,0,,,OCMD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2011 Oversized,2011-06-17,,15,memorabilia
+ODY,350,Odyssey,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",ODY,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",OD,Odyssey,2001-10-01,80,350,expansion
+OE01,0,,,OE01,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Archenemy: Nicol Bolas Schemes,2018-12-25,,20,archenemy
+OGW,186,Battle for Zendikar,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",OGW,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",OGW,Oath of the Gatewatch,2016-01-22,1693,186,expansion
+OHOP,0,,,OHOP,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",OHOP,Planechase Planes,2009-09-04,,40,planechase
+OLGC,0,,,OLGC,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Legacy Championship,2011-01-01,,12,memorabilia
+ONS,350,Onslaught,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",ONS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",ONS,Onslaught,2002-10-07,81,350,expansion
+OPC2,0,,,OPC2,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",OPC2,Planechase 2012 Planes,2012-06-01,,40,planechase
+OPCA,0,,,OPCA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Planechase Anthology Planes,2018-12-25,,86,planechase
+ORI,272,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', ['marketing', 'checklist']]",ORI,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",ORI,Magic Origins,2015-07-17,1512,288,core
+OVNT,0,,,OVNT,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Vintage Championship,2003-01-01,,20,memorabilia
+P02,165,,,P02,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Portal Second Age,1998-06-01,87,165,starter
+P03,0,,,P03,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Player Rewards 2003,2003-01-01,,7,promo
+P04,0,,,P04,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Player Rewards 2004,2004-01-01,,6,promo
+P05,0,,,P05,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Player Rewards 2005,2005-01-01,,6,promo
+P06,0,,,P06,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Player Rewards 2006,2006-01-01,,7,promo
+P07,0,,,P07,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Player Rewards 2007,2007-01-01,,7,promo
+P08,0,,,P08,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Player Rewards 2008,2008-01-01,,7,promo
+P09,0,,,P09,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Player Rewards 2009,2009-01-01,,9,promo
+P10,0,,,P10,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Player Rewards 2010,2010-01-01,,9,promo
+P10E,0,,,P10E,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Tenth Edition Promos,2007-07-13,,1,promo
+P11,0,,,P11,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Player Rewards 2011,2011-01-01,,5,promo
+P15A,0,,,P15A,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,15th Anniversary Cards,2008-04-01,,2,promo
+P2HG,0,,,P2HG,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Two-Headed Giant Tournament,2005-12-09,,1,promo
+PAER,0,Kaladesh,,PAER,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Aether Revolt Promos,2017-01-19,,58,promo
+PAKH,0,Amonkhet,,PAKH,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Amonkhet Promos,2017-04-28,,72,promo
+PAL00,0,,,PAL00,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Arena League 2000,2000-01-01,,11,promo
+PAL01,0,,,PAL01,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Arena League 2001,2001-01-01,,12,promo
+PAL02,0,,,PAL02,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Arena League 2002,2002-01-01,,5,promo
+PAL03,0,,,PAL03,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Arena League 2003,2003-01-01,,8,promo
+PAL04,0,,,PAL04,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Arena League 2004,2004-01-01,,14,promo
+PAL05,0,,,PAL05,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Arena League 2005,2005-01-01,,8,promo
+PAL06,0,,,PAL06,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Arena League 2006,2006-01-01,,9,promo
+PAL99,0,,,PAL99,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Arena League 1999,1999-01-01,,9,promo
+PALP,0,,,PALP,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Asia Pacific Land Program,1998-09-01,9,15,promo
+PARC,0,,,PARC,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Promotional Schemes,2010-06-18,,5,archenemy
+PARL,0,,,PARL,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Arena League 1996,1996-08-02,,7,promo
+PAVR,0,Innistrad,,PAVR,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Avacyn Restored Promos,2012-04-28,,5,promo
+PBBD,0,,,PBBD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Battlebond Promos,2018-06-09,,22,promo
+PBFZ,0,Battle for Zendikar,,PBFZ,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Battle for Zendikar Promos,2015-10-02,,78,promo
+PBNG,0,Theros,,PBNG,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Born of the Gods Promos,2014-02-01,,9,promo
+PBOK,0,,,PBOK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Miscellaneous Book Promos,2009-01-27,,1,promo
+PC2,0,,,PC2,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",PC2,Planechase 2012,2012-06-01,363,157,planechase
+PCA,0,,,PCA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Planechase Anthology,2016-11-25,1793,156,planechase
+PCEL,0,,,PCEL,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Celebration Cards,1996-08-14,,7,memorabilia
+PCMD,0,,,PCMD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Commander 2011 Launch Party,2011-06-17,,5,memorabilia
+PCMP,0,,,PCMP,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Champs and States,2006-03-18,21,12,promo
+PCY,143,Masques,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",PCY,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",PR,Prophecy,2000-06-05,94,143,expansion
+PD2,0,,,PD2,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",PD2,Premium Deck Series: Fire and Lightning,2010-11-19,89,34,premium_deck
+PD3,0,,,PD3,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",PD3,Premium Deck Series: Graveborn,2011-11-18,90,30,premium_deck
+PDD2,0,,,PDD2,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duel Decks: Jace vs. Chandra Japanese Promos,2010-12-03,,2,promo
+PDGM,0,Return to Ravnica,,PDGM,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Dragon's Maze Promos,2013-04-27,,6,promo
+PDKA,0,Innistrad,,PDKA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Dark Ascension Promos,2012-01-28,,5,promo
+PDOM,0,,,PDOM,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Dominaria Promos,2018-04-27,,96,promo
+PDP10,0,,,PDP10,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duels of the Planeswalkers Promos 2010,2010-01-01,,2,promo
+PDP11,0,,,PDP11,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duels of the Planeswalkers Promos 2011,2011-01-01,,3,promo
+PDP12,0,,,PDP12,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duels of the Planeswalkers Promos 2012,2012-01-01,,3,promo
+PDP13,0,,,PDP13,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duels of the Planeswalkers Promos 2013,2013-01-01,,3,promo
+PDP14,0,,,PDP14,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duels of the Planeswalkers Promos 2014,2014-01-01,,2,promo
+PDRC,0,,,PDRC,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Dragon Con,1994-01-01,,1,promo
+PDTK,0,Khans of Tarkir,,PDTK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Dragons of Tarkir Promos,2015-03-26,,49,promo
+PDTP,0,,,PDTP,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Duels of the Planeswalkers Promos 2009,2009-01-01,,1,promo
+PELP,0,,,PELP,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,European Land Program,2000-02-05,38,15,promo
+PEMN,0,Shadows Over Innistrad,,PEMN,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Eldritch Moon Promos,2016-07-22,,73,promo
+PF19,0,,,PF19,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,MagicFest 2019,2019-01-01,,6,promo
+PFRF,0,Khans of Tarkir,,PFRF,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Fate Reforged Promos,2015-01-22,,39,promo
+PG07,0,,,PG07,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Gateway 2007,2007-01-01,,9,promo
+PG08,0,,,PG08,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Gateway 2008,2008-01-01,,8,promo
+PGP1,0,,,PGP1,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,M19 Gift Pack,2018-11-16,,5,box
+PGP17,0,,,PGP17,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,2017 Gift Pack,2017-10-20,,5,box
+PGPX,0,,,PGPX,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Grand Prix Promos,2007-02-24,54,20,promo
+PGRN,0,Guilds of Ravnica,,PGRN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Guilds of Ravnica Promos,2018-10-05,,46,promo
+PGRU,0,,,PGRU,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Guru,1999-07-12,56,5,promo
+PGTC,0,Return to Ravnica,,PGTC,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Gatecrash Promos,2013-01-26,,9,promo
+PGTW,0,,,PGTW,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Gateway 2006,2006-01-01,,3,promo
+PHEL,0,,,PHEL,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Open the Helvault,2012-04-28,,6,memorabilia
+PHOP,0,,,PHOP,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Promotional Planes,2009-09-04,,5,promo
+PHOU,0,Amonkhet,,PHOU,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Hour of Devastation Promos,2017-07-14,,58,promo
+PHPR,0,,,PHPR,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,HarperPrism Book Promos,1994-01-01,,5,promo
+PHUK,0,,,PHUK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Hachette UK,2006-01-01,,60,box
+PI13,0,,,PI13,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,IDW Comics 2013,2013-01-01,,5,promo
+PI14,0,,,PI14,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,IDW Comics 2014,2014-01-01,,3,promo
+PIDW,0,,,PIDW,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,IDW Comics 2012,2012-01-01,,9,promo
+PISD,0,Innistrad,,PISD,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Innistrad Promos,2011-09-24,,5,promo
+PJAS,0,,,PJAS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Junior APAC Series,2006-01-01,,6,promo
+PJJT,0,,,PJJT,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Japan Junior Tournament,2003-01-01,,12,promo
+PJOU,0,Theros,,PJOU,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Journey into Nyx Promos,2014-04-26,,9,promo
+PJSE,0,,,PJSE,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Junior Series Europe,2005-01-01,,8,promo
+PKLD,0,Kaladesh,,PKLD,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Kaladesh Promos,2016-09-30,,73,promo
+PKTK,0,Khans of Tarkir,,PKTK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Khans of Tarkir Promos,2014-09-20,,50,promo
+PLC,165,Time Spiral,"['rare', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'timeshifted common', 'timeshifted common', 'timeshifted common', ['timeshifted rare', 'timeshifted uncommon']]",PLC,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",PLC,Planar Chaos,2007-02-02,83,165,expansion
+PLGM,0,,,PLGM,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,DCI Legend Membership,1995-01-01,,2,promo
+PLNY,0,,,PLNY,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,2018 Lunar New Year,2018-02-16,,1,promo
+PLPA,0,,,PLPA,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Launch Parties,2008-02-01,,6,promo
+PLS,143,Invasion,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",PLS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",PS,Planeshift,2001-02-05,85,146,expansion
+PM10,0,,,PM10,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic 2010 Promos,2009-07-16,,5,promo
+PM11,0,,,PM11,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic 2011 Promos,2010-07-15,,5,promo
+PM12,0,,,PM12,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic 2012 Promos,2011-07-14,,5,promo
+PM13,0,,,PM13,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic 2013 Promos,2012-07-12,,5,promo
+PM14,0,,,PM14,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic 2014 Promos,2013-07-18,,5,promo
+PM15,0,,,PM15,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic 2015 Promos,2014-07-17,,9,promo
+PM19,0,,,PM19,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",PM19,Core Set 2019 Promos,2018-07-13,,77,promo
+PMBS,0,Scars of Mirrodin,,PMBS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Mirrodin Besieged Promos,2011-02-03,,6,promo
+PMEI,0,,,PMEI,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magazine Inserts,1995-01-01,,23,promo
+PMOA,0,,,PMOA,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",PMOA,Magic Online Avatars,2003-01-01,,85,vanguard
+PMPS,0,,,PMPS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Premiere Shop 2005,2005-01-01,,20,promo
+PMPS06,0,,,PMPS06,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Premiere Shop 2006,2006-01-01,,5,promo
+PMPS07,0,,,PMPS07,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Premiere Shop 2007,2007-01-01,,5,promo
+PMPS08,0,,,PMPS08,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Premiere Shop 2008,2008-01-01,,5,promo
+PMPS09,0,,,PMPS09,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Premiere Shop 2009,2009-01-01,,5,promo
+PMPS10,0,,,PMPS10,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Premiere Shop 2010,2010-01-01,,5,promo
+PMPS11,0,,,PMPS11,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Premiere Shop 2011,2011-01-01,,5,promo
+PNAT,0,,,PNAT,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Nationals Promos,2018-01-25,,1,promo
+PNPH,0,Scars of Mirrodin,,PNPH,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,New Phyrexia Promos,2011-05-12,,6,promo
+POGW,0,Battle for Zendikar,,POGW,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Oath of the Gatewatch Promos,2016-01-22,,63,promo
+POR,215,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",POR,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Portal,1997-05-01,86,229,starter
+PORI,0,,,PORI,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Origins Promos,2015-07-17,,49,promo
+PPC1,0,,,PPC1,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,M15 Prerelease Challenge,2014-07-12,,2,memorabilia
+PPOD,0,,,PPOD,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Portal Demo Game,1997-05-01,,6,starter
+PPRE,0,,,PPRE,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Prerelease Events,1997-10-04,,40,promo
+PPRO,0,,,PPRO,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Pro Tour Promos,2007-02-09,93,9,promo
+PR2,0,,,PR2,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Magic Player Rewards 2002,2002-01-01,,8,promo
+PRED,0,,,PRED,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Redemption Program,1996-10-01,,1,promo
+PREL,0,,,PREL,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Release Events,2003-07-26,,13,promo
+PRES,0,,,PRES,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Resale Promos,2007-01-01,,21,promo
+PRIX,0,Ixalan,,PRIX,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Rivals of Ixalan Promos,2018-01-19,,66,promo
+PRM,1050,,,PRM,,True,True,"{'date': '2018-01-12', 'version': '4.2.1'}",PRM,Magic Online Promos,2002-06-24,,1225,promo
+PRN,0,,,PRNA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Ravnica Allegiance Promos,2019-01-25,,7,promo
+PROE,0,Zendikar,,PROE,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Rise of the Eldrazi Promos,2010-04-23,,6,promo
+PRTR,0,Return to Ravnica,,PRTR,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Return to Ravnica Promos,2012-10-05,,10,promo
+PRW2,0,,,PRW2,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,RNA Ravnica Weekend,2019-02-16,,10,promo
+PRWK,0,Guilds of Ravnica,,PRWK,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,GRN Ravnica Weekend,2018-10-05,,10,promo
+PS11,49,,,PS11,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Salvat 2011,2011-01-01,,224,box
+PS14,0,,,PS14,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,San Diego Comic-Con 2014,2014-07-08,,6,promo
+PS15,0,,,PS15,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,San Diego Comic-Con 2015,2015-07-09,,5,promo
+PS16,0,,,PS16,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,San Diego Comic-Con 2016,2016-10-01,,5,promo
+PS17,0,,,PS17,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,San Diego Comic-Con 2017,2017-07-20,,6,promo
+PS18,0,,,PS18,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,San Diego Comic-Con 2018,2018-07-19,,5,promo
+PSAL,545,,,PSAL,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Salvat 2005,2005-08-22,,720,box
+PSDC,0,,,PSDC,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,San Diego Comic-Con 2013,2013-07-18,,5,promo
+PSOI,0,Shadows Over Innistrad,,PSOI,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Shadows over Innistrad Promos,2016-04-08,,87,promo
+PSOM,0,Scars of Mirrodin,,PSOM,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Scars of Mirrodin Promos,2010-09-30,,5,promo
+PSS1,0,Battle for Zendikar,,PSS1,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,BFZ Standard Series,2015-10-02,,5,promo
+PSS2,0,Ixalan,,PSS2,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,XLN Standard Showdown,2017-09-29,,5,promo
+PSS3,0,,,PSS3,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,M19 Standard Showdown,2018-07-13,,5,promo
+PSUM,0,,,PSUM,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Summer of Magic,2007-07-21,,2,promo
+PSUS,0,,,PSUS,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Junior Super Series,1999-12-01,61,18,promo
+PTC,129,,,PTC,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Pro Tour Collector Set,1996-05-01,,304,memorabilia
+PTHS,0,Theros,,PTHS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Theros Promos,2013-09-21,,10,promo
+PTK,180,,"['rare', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'land', 'land']",PTK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Portal Three Kingdoms,1999-05-01,88,180,starter
+PTKDF,0,Khans of Tarkir,,PTKDF,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Tarkir Dragonfury,2015-04-03,1520,4,promo
+PUMA,0,,,PUMA,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",PUMA,Ultimate Box Topper,2018-12-07,2361,40,masterpiece
+PURL,0,,,PURL,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,URL/Convention Promos,2009-02-08,,8,promo
+PUST,0,,,PUST,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Unstable Promos,2017-11-13,,1,promo
+PVAN,0,,,PVAN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Vanguard Series,1997-05-01,119,32,vanguard
+PWCQ,0,,,PWCQ,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,World Magic Cup Qualifiers,2013-04-06,,5,promo
+PWOR,0,,,PWOR,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Worlds,1999-08-04,,1,promo
+PWOS,0,,,PWOS,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Wizards of the Coast Online Store,1999-09-04,,1,promo
+PWP09,0,,,PWP09,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Wizards Play Network 2009,2009-01-01,,8,promo
+PWP10,0,,,PWP10,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Wizards Play Network 2010,2010-01-01,,10,promo
+PWP11,0,,,PWP11,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Wizards Play Network 2011,2011-01-01,,14,promo
+PWP12,0,,,PWP12,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Wizards Play Network 2012,2012-01-01,,3,promo
+PWPN,0,,,PWPN,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Wizards Play Network 2008,2008-10-01,,2,promo
+PWWK,0,Zendikar,,PWWK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Worldwake Promos,2010-02-05,,6,promo
+PXLN,0,Ixalan,,PXLN,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Ixalan Promos,2017-09-29,,83,promo
+PXTC,0,Ixalan,,PXTC,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,XLN Treasure Chest,2017-11-24,,10,promo
+PZ1,0,,,PZ1,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",PZ1,Legendary Cube,2015-11-18,,149,treasure_chest
+PZ2,107,,,PZ2,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",PZ2,You Make the Cube,2016-11-16,,282,treasure_chest
+PZEN,0,Zendikar,,PZEN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Zendikar Promos,2009-10-02,,5,promo
+RAV,306,Ravnica,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",RAV,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",RAV,Ravnica: City of Guilds,2005-10-07,95,306,expansion
+REN,122,,,REN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Renaissance,1995-08-01,2379,122,masters
+RIN,69,,,RIN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Rinascimento,1995-08-01,,69,masters
+RIX,196,Ixalan,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",RIX,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",RIX,Rivals of Ixalan,2018-01-19,2098,205,expansion
+RNA,259,Guilds of Ravnica,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",RNA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",RNA,Ravnica Allegiance,2019-01-25,2366,273,expansion
+ROE,248,Zendikar,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",ROE,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",ROE,Rise of the Eldrazi,2010-04-23,98,248,expansion
+RQS,0,,,RQS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Rivals Quick Start Set,1996-07-01,,65,box
+RTR,274,Return to Ravnica,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",RTR,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",RTR,Return to Ravnica,2012-10-05,370,274,expansion
+S00,0,,,S00,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Starter 2000,2000-04-01,106,21,starter
+S99,173,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'land']",S99,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Starter 1999,1999-07-01,105,173,starter
+SCG,143,Onslaught,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",SCG,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",SCG,Scourge,2003-05-26,101,143,expansion
+SHM,301,Shadowmoor,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'marketing']",SHM,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",SHM,Shadowmoor,2008-05-02,102,301,expansion
+SOI,297,Shadows Over Innistrad,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', ['common', 'double faced rare', 'double faced mythic rare'], ['double faced common', 'double faced uncommon'], ['land', 'checklist'], 'marketing']",SOI,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",SOI,Shadows over Innistrad,2016-04-08,1708,297,expansion
+SOK,165,Kamigawa,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",SOK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",SOK,Saviors of Kamigawa,2005-06-03,99,165,expansion
+SOM,249,Scars of Mirrodin,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",SOM,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",SOM,Scars of Mirrodin,2010-10-01,100,249,expansion
+SS1,0,,,SS1,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Signature Spellbook: Jace,2018-06-15,2220,8,spellbook
+STH,143,Tempest,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",STH,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",ST,Stronghold,1998-03-02,107,143,expansion
+SUM,306,,,SUM,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Summer Magic / Edgar,1994-06-21,,306,core
+TBTH,0,Theros,,TBTH,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Battle the Horde,2014-03-01,,15,token
+TD0,22,,,TD0,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",TD0,Magic Online Theme Decks,2010-11-08,,197,box
+TD2,0,,,TD2,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",TD2,Duel Decks: Mirrodin Pure vs. New Phyrexia,2011-05-14,,88,duel_deck
+TDAG,0,Theros,,TDAG,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Defeat a God,2014-05-25,,15,token
+TFTH,0,Theros,,TFTH,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Face the Hydra,2013-10-19,,15,token
+THP1,0,Theros,,THP1,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Theros Hero's Path,2013-09-27,,7,token
+THP2,0,Theros,,THP2,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Born of the Gods Hero's Path,2014-02-07,,7,token
+THP3,0,Theros,,THP3,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Journey into Nyx Hero's Path,2014-05-02,,9,token
+THS,249,Theros,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",THS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",THS,Theros,2013-09-27,1144,249,expansion
+TMP,350,Tempest,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",TMP,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",TE,Tempest,1997-10-14,108,350,expansion
+TOR,143,Odyssey,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",TOR,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",TOR,Torment,2002-02-04,112,143,expansion
+TPR,269,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land']",TPR,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",TPR,Tempest Remastered,2015-05-06,,269,masters
+TSB,121,Time Spiral,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'timeshifted purple']",TSB,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",TSB,Time Spiral Timeshifted,2006-10-06,111,121,expansion
+TSP,301,Time Spiral,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'timeshifted purple']",TSP,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",TSP,Time Spiral,2006-10-06,110,301,expansion
+UDS,143,Urza,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",UDS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",UD,Urza's Destiny,1999-06-07,116,143,expansion
+UGIN,26,Khans of Tarkir,,UGIN,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Ugin's Fate,2015-01-17,1507,26,promo
+UGL,88,,"['rare', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'land']",UGL,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Unglued,1998-08-11,113,88,funny
+ULG,143,Urza,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",ULG,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",UL,Urza's Legacy,1999-02-15,117,143,expansion
+UMA,254,,"['token', ['foil mythic rare', 'foil rare', 'foil uncommon', 'foil common'], ['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",UMA,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",UMA,Ultimate Masters,2018-12-07,2360,254,masters
+UNH,168,,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land']",UNH,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Unhinged,2004-11-19,114,168,funny
+USG,350,Urza,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",USG,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",UZ,Urza's Saga,1998-10-12,118,350,expansion
+UST,268,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', ['land', 'Steamflogger Boss'], 'token']",UST,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,Unstable,2017-12-08,2092,268,funny
+V09,0,,,V09,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",V09,From the Vault: Exiled,2009-08-28,48,15,from_the_vault
+V10,0,,,V10,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",V10,From the Vault: Relics,2010-08-27,50,15,from_the_vault
+V11,0,,,V11,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",V11,From the Vault: Legends,2011-08-26,49,15,from_the_vault
+V12,0,,,V12,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",V12,From the Vault: Realms,2012-08-31,368,15,from_the_vault
+V13,0,,,V13,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",V13,From the Vault: Twenty,2013-08-23,1141,20,from_the_vault
+V14,0,,,V14,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",V14,From the Vault: Annihilation,2014-08-22,1475,15,from_the_vault
+V15,0,,,V15,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",V15,From the Vault: Angels,2015-08-21,1577,15,from_the_vault
+V16,0,,,V16,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",V16,From the Vault: Lore,2016-08-19,1821,16,from_the_vault
+V17,0,,,V17,,True,,"{'date': '2018-01-12', 'version': '4.2.1'}",V17,From the Vault: Transform,2017-11-24,2078,16,from_the_vault
+VIS,167,Mirage,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",VIS,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",VI,Visions,1997-02-03,120,167,expansion
+VMA,325,,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', ['power nine', 'foil']]",VMA,,,True,"{'date': '2018-01-12', 'version': '4.2.1'}",VMA,Vintage Masters,2014-06-16,,325,masters
+W16,0,,,W16,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",W16,Welcome Deck 2016,2016-04-08,1765,16,starter
+W17,0,,,W17,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",W17,Welcome Deck 2017,2017-04-15,1930,30,starter
+WC00,0,,,WC00,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,World Championship Decks 2000,2000-08-02,,114,memorabilia
+WC01,0,,,WC01,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,World Championship Decks 2001,2001-08-08,,136,memorabilia
+WC02,0,,,WC02,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,World Championship Decks 2002,2002-08-14,,151,memorabilia
+WC03,0,,,WC03,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,World Championship Decks 2003,2003-08-06,,140,memorabilia
+WC04,0,,,WC04,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,World Championship Decks 2004,2004-09-01,,102,memorabilia
+WC97,0,,,WC97,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,World Championship Decks 1997,1997-08-13,2198,130,memorabilia
+WC98,0,,,WC98,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,World Championship Decks 1998,1998-08-12,,115,memorabilia
+WC99,0,,,WC99,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",,World Championship Decks 1999,1999-08-04,,110,memorabilia
+WTH,167,Mirage,"['rare', 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common']",WTH,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",WL,Weatherlight,1997-06-09,121,167,expansion
+WWK,145,Zendikar,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",WWK,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",WWK,Worldwake,2010-02-05,122,145,expansion
+XLN,279,Ixalan,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",XLN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",XLN,Ixalan,2017-09-29,2043,289,expansion
+ZEN,269,Zendikar,"[['rare', 'mythic rare'], 'uncommon', 'uncommon', 'uncommon', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'common', 'land', 'marketing']",ZEN,,,,"{'date': '2018-01-12', 'version': '4.2.1'}",ZEN,Zendikar,2009-10-02,124,269,expansion
