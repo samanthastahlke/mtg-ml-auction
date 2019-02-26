@@ -1,9 +1,9 @@
-import pandas as pd
-import os
 import card_csv_ops as cops
-import time
-import requests
+import os
+import pandas as pd
 import pickle
+import requests
+import time
 
 datapath = os.path.abspath(os.path.join(os.getcwd(), os.pardir, "data\\"))
 
@@ -75,17 +75,11 @@ def cleanup_cards_csv():
     print("Parsing CSV...")
     csv_df = pd.read_csv(datapath_csv, index_col=0)
 
-    legalities = ['1v1', 'brawl', 'commander', 'duel', 'frontier', 'future', 'legacy', 'modern', 'pauper', 'penny', 'standard', 'vintage']
-
     print("Fixing legality attributes...")
-    for gametype in legalities:
-        csv_df[gametype] = csv_df.apply(cops.card_legality, args=(gametype,), axis=1)
-
-    colors = ['B', 'G', 'R', 'U', 'W']
+    csv_df = csv_df.apply(cops.card_process_legality, axis=1)
 
     print("Fixing color attributes...")
-    for color in colors:
-        csv_df[color] = csv_df.apply(cops.card_color, args=(color,), axis=1)
+    csv_df = csv_df.apply(cops.card_process_color, axis=1)
 
     typesets = ['types', 'subtypes', 'supertypes']
 
@@ -199,9 +193,6 @@ def fetch_prices():
     print("Saving CSV...")
     prices_df.to_csv(datapath_csv_prices)
 
-def cleanup_prices():
-    return
-
 def complete_cards_csv():
     print("Completing card data...")
     print("Loading data...")
@@ -226,7 +217,8 @@ def complete_cards_csv():
     print("Fixing set data...")
     csv_df = csv_df.apply(cops.card_process_set_info, args=(csv_df_sets,rarity_info), axis=1)
 
-    print("Adding price data...")
+    print("Excluding cards with missing rarity info...")
+    csv_df = csv_df[csv_df['rarity'] != 'UNKNOWN']
 
     print("Saving CSV...")
     csv_df.to_csv(datapath_csv_complete)

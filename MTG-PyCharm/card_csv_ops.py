@@ -1,7 +1,6 @@
 import ast
 
 rarity_to_int = {
-    'basic' : 0,
     'common' : 1,
     'uncommon' : 2,
     'rare' : 3,
@@ -9,27 +8,62 @@ rarity_to_int = {
 }
 
 int_to_rarity = {
-    0 : 'basic',
     1 : 'common',
     2 : 'uncommon',
     3 : 'rare',
     4 : 'mythic'
 }
 
-def card_legality(row, key):
+legalities = ['1v1',
+              'brawl',
+              'commander',
+              'duel',
+              'frontier',
+              'future',
+              'legacy',
+              'modern',
+              'pauper',
+              'penny',
+              'standard',
+              'vintage']
+
+colors = ['B',
+          'G',
+          'R',
+          'U',
+          'W']
+
+def card_process_legality(row):
 
     legality_lookup = ast.literal_eval(row['legalities'])
+    total_legal = 0
 
-    if key in legality_lookup:
-        return legality_lookup[key] == 'Legal'
+    for key in legalities:
+        if key in legality_lookup and legality_lookup[key] == 'Legal':
+            row[key] = True
+            total_legal += 1
+        else:
+            row[key] = False
 
-    return False
+    row['numLegalFormats'] = total_legal
 
-def card_color(row, color):
+    return row
+
+def card_process_color(row):
 
     color_list = ast.literal_eval(row['colorIdentity'])
+    total_color = 0
 
-    return color in color_list
+    for key in colors:
+        if key in color_list:
+            row[key] = True
+            total_color += 1
+        else:
+            row[key] = False
+
+    row['numColors'] = total_color
+
+    return row
 
 def card_combine_types(row, key):
 
@@ -39,6 +73,9 @@ def card_combine_types(row, key):
 
     for type_name in type_list:
         type_combined += type_name
+
+    if not type_combined:
+        type_combined = "None"
 
     return type_combined
 
