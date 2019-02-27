@@ -1,6 +1,5 @@
-import numpy as np
 import tensorflow as tf
-import time
+
 def make_dnn(train_data, train_labels):
 
     print("Setting up DNN...")
