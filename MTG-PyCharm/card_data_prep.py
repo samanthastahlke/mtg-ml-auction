@@ -1,3 +1,10 @@
+'''
+card_data_prep.py
+(c) Samantha Stahlke 2019
+This script was used for dataset prep after initial download/cleaning.
+'''
+
+
 import os
 import pandas as pd
 

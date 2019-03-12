@@ -1,5 +1,12 @@
+'''
+mtg_nn.py
+(c) Samantha Stahlke 2019
+Small utility script for setting up DNNs.
+'''
+
 import tensorflow as tf
 
+#Initial model creation.
 def make_dnn(train_data, train_labels):
 
     print("Setting up DNN...")
@@ -32,7 +39,7 @@ def make_dnn(train_data, train_labels):
 
     return dnn
 
-
+#Validation.
 def eval_dnn(dnn, test_data, test_labels):
 
     test_input_fn = tf.estimator.inputs.pandas_input_fn(
@@ -45,6 +52,7 @@ def eval_dnn(dnn, test_data, test_labels):
     print("Evaluating DNN...")
     return dnn.evaluate(input_fn=test_input_fn)
 
+#Getting raw predictions.
 def pred_dnn(dnn, data):
 
     input_fn = tf.estimator.inputs.pandas_input_fn(

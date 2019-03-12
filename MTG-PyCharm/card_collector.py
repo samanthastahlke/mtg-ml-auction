@@ -1,3 +1,9 @@
+'''
+card_collector.py
+(c) Samantha Stahlke 2019
+This script was used for downloading and initial prep of the dataset.
+'''
+
 import card_csv_ops as cops
 import os
 import pandas as pd
@@ -18,6 +24,7 @@ datapath_csv_prices = os.path.abspath(os.path.join(datapath, "cards-prices.csv")
 datapath_csv_complete = os.path.abspath(os.path.join(datapath, "cards-complete-priced.csv"))
 datapath_rarity = os.path.abspath(os.path.join(datapath, "cards-rarity.pickle"))
 
+#Conversion from JSON to CSV.
 def convert_raw_data(json_filepath, csv_filepath, column_drop=[]):
     print("Converting JSON data to CSV...")
     print("Parsing JSON...")
@@ -38,6 +45,8 @@ def convert_raw_data(json_filepath, csv_filepath, column_drop=[]):
 
     print("Completed data conversion from JSON to CSV.")
 
+#Rarity data is present in a different set from the main cards.
+#We want to build a UUID lookup enabling us to merge the data into the main set.
 def build_rarity_dict():
     print("Fetching card rarity data...")
     rarity_dict = {}
@@ -70,6 +79,7 @@ def build_rarity_dict():
     with open(datapath_rarity, 'wb') as pickle_file:
         pickle.dump(rarity_dict, pickle_file)
 
+#Perform initial cleanup to delete/merge/transform some attributes.
 def cleanup_cards_csv():
     print("Cleaning up card data...")
     print("Parsing CSV...")
@@ -92,6 +102,8 @@ def cleanup_cards_csv():
     csv_df['isAlternative'] = csv_df['isAlternative'] == True
     csv_df['starter'] = csv_df['starter'] == True
 
+    #Some attributes are not useful to us (e.g., foreign translations).
+    #Some attributes have been transformed, so the originals need to be dropped.
     print("Dropping unused attributes...")
     csv_df = csv_df.drop(['colorIdentity',
                           'colorIndicator',
@@ -118,6 +130,8 @@ def cleanup_cards_csv():
     print("Saving CSV...")
     csv_df.to_csv(datapath_csv_clean)
 
+#Grabbing some additional info about card packs from a second dataset and storing so we can
+#concatenate it with the main card information later.
 def cleanup_sets_csv():
     print("Cleaning up set data...")
     print("Parsing CSV...")
@@ -141,6 +155,8 @@ def cleanup_sets_csv():
     print("Saving CSV...")
     csv_df.to_csv(datapath_csv_clean_sets)
 
+#Scrape the Scryfall API for price data.
+#Note, running this takes a while!
 def fetch_prices():
     print("Fetching price data from Scryfall...")
     print("Parsing CSV...")
@@ -160,6 +176,7 @@ def fetch_prices():
 
     for i in range(0, num_cards):
 
+        #Progress indicator.
         if(i % 1000 == 0):
             print("Processing card " + str(i) + " of " + str(num_cards))
 
@@ -187,12 +204,15 @@ def fetch_prices():
             print("Seems Scryfall is down. Stopping at index " + str(i))
             break
 
+        #Scryfall's TOS require a waiting period in between requests.
+        #Don't omit this unless you're alright with getting blacklisted.
         time.sleep(0.1)
 
     print("Found " + str(us_card_prices_found) + " of " + str(num_cards) + " with US pricing data.")
     print("Saving CSV...")
     prices_df.to_csv(datapath_csv_prices)
 
+#Combine original card data with set and price info.
 def complete_cards_csv():
     print("Completing card data...")
     print("Loading data...")
@@ -223,6 +243,7 @@ def complete_cards_csv():
     print("Saving CSV...")
     csv_df.to_csv(datapath_csv_complete)
 
+#Uncomment these functions as necessary to process the dataset.
 #To read in and reformat data for cards.
 #convert_raw_data(datapath_json, datapath_csv)
 

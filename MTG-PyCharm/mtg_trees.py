@@ -1,3 +1,10 @@
+'''
+mtg_trees.py
+(c) Samantha Stahlke 2019
+Small utility script for setting up trees/random forests.
+'''
+
+
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.tree import DecisionTreeRegressor
 

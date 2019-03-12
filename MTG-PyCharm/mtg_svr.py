@@ -1,3 +1,9 @@
+'''
+mtg_svr.py
+(c) Samantha Stahlke 2019
+Small utility script for setting up SVR.
+'''
+
 from sklearn.svm import SVR
 
 def make_svr(train_data, train_labels):

@@ -1,3 +1,9 @@
+'''
+mtg_models.py
+(c) Samantha Stahlke 2019
+The main script used for constructing and testing models.
+'''
+
 import card_data_ops as cops
 import os
 import pandas as pd
@@ -24,6 +30,7 @@ scaler.fit(train_data[cops.attr_to_scale])
 train_data[cops.attr_to_scale] = scaler.transform(train_data[cops.attr_to_scale])
 test_data[cops.attr_to_scale] = scaler.transform(test_data[cops.attr_to_scale])
 
+#To create a decision tree.
 def model_tree():
     import mtg_trees
 
@@ -35,7 +42,7 @@ def model_tree():
     print("Tree MSE (train): ", mse_tree_train)
     print("Tree MSE (test): ", mse_tree_test)
 
-
+#To create a random forest.
 def model_forest(vary_parameters=False, graph=False):
     import mtg_trees
 
@@ -55,6 +62,7 @@ def model_forest(vary_parameters=False, graph=False):
     print("Forest MSE (train): ", mse_forest_train)
     print("Forest MSE (test): ", mse_forest_test)
 
+    #Data paths for model variation (used for report figure generation).
     export_datapath = os.path.join(os.getcwd(), "forest-results\\")
     estimator_datapath = os.path.join(export_datapath, "vary_n_estimators.csv")
     depth_datapath = os.path.join(export_datapath, "vary_max_depth.csv")
@@ -62,6 +70,7 @@ def model_forest(vary_parameters=False, graph=False):
     depths = [4, 6, 8, 10, 12, 14, 16]
     estimator_counts = [1, 2, 5, 10, 20, 50, 100, 200]
 
+    #Hyperparameter variation for report investigation.
     if vary_parameters:
 
         num_trials = 5
@@ -128,6 +137,7 @@ def model_forest(vary_parameters=False, graph=False):
         df_depth.to_csv(depth_datapath)
         print("Wrote depth variances to file.")
 
+    #Constructing figures for report.
     if graph:
         import matplotlib.pyplot as plt
 
@@ -200,6 +210,7 @@ def model_forest(vary_parameters=False, graph=False):
 
         print("Plotted forest model charts.")
 
+#To create an SVR.
 def model_svr():
     import mtg_svr
 
@@ -211,6 +222,7 @@ def model_svr():
     print("SVR MSE (train): ", mse_svr_train)
     print("SVR MSE (test): ", mse_svr_test)
 
+#To create a DNN.
 def model_dnn():
     import mtg_nn
 
@@ -222,7 +234,8 @@ def model_dnn():
     print("NN MSE (train): ", mse_nn_train)
     print("NN MSE (test): ", mse_nn_test)
 
+#Uncomment as desired to demonstrate various models.
 #model_tree()
 model_forest()
-model_svr()
-model_dnn()
+#model_svr()
+#model_dnn()
